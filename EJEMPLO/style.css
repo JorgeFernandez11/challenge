@@ -1,0 +1,15 @@
+section{
+    border: solid red;
+    display: flex;
+    height: 800px;
+}
+article{
+    border: solid blue;
+}
+@media (max-width: 600px){
+    section{
+    flex-direction:column ;
+    margin-bottom: 20px;
+    border: solid green;
+    }
+}

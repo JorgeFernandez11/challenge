@@ -1,0 +1,18 @@
+*body{
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+}
+.hero{
+    height: 600px;
+    width: 300px;
+    background-image: url(./szm-4-2Z1HLQQcwwA-unsplash.jpg);
+    background-size: contain;
+    border: solid black 4px;
+}
+.content{
+    border: solid white;
+    color: rgb(21, 129, 28);
+    font-size: 22px;
+    
+}
